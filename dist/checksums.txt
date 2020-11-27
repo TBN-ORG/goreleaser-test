@@ -1,0 +1,5 @@
+021f0be6e3dc7e7dd6a0d9e0f72c92a541640700f79975d40081ec150c8da5e5  goreleaser-test_v0.0.0-next_Linux_x86_64.tar.gz
+2c61e4ab3055646aa00ae57961af75ee36707682e67ca3acd951b1e59012bc1d  goreleaser-test_v0.0.0-next_Darwin_x86_64.tar.gz
+2ea2ca119a1edd6c96eb08e09022df51ac2751d99d10dae1efe6bce015f6d30f  goreleaser-test_v0.0.0-next_Linux_i386.tar.gz
+e7b7d199fe639c196fc7bb8e393aa5a5c173136ad1c1ff0ca83c419e1cf4d62d  goreleaser-test_v0.0.0-next_Windows_i386.tar.gz
+ff179e994bfdfa0d91ecae607bd9642c7230aade102075315080f6a8b406b77d  goreleaser-test_v0.0.0-next_Windows_x86_64.tar.gz
